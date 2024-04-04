@@ -1,0 +1,25 @@
+name: test
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - beautifulsoup4=4.9.3=pyhb0f4dca_0
+  - bzip2=1.0.8=h3422bc3_4
+  - ca-certificates=2021.10.8=h4653dfc_0
+  - libffi=3.4.2=h3422bc3_5
+  - libzlib=1.2.11=hee7b306_1013
+  - ncurses=6.3=hc470f4d_0
+  - openssl=3.0.0=h3422bc3_2
+  - pip=22.0.3=pyhd8ed1ab_0
+  - python=3.10.2=h38ef502_3_cpython
+  - python_abi=3.10=2_cp310
+  - readline=8.1=hedafd6a_0
+  - setuptools=60.9.3=py310hbe9552e_0
+  - soupsieve=2.0.1=py_0
+  - sqlite=3.37.0=h72a2b83_0
+  - tk=8.6.12=he1e0b03_0
+  - tzdata=2020b=h7b6447c_0
+  - wheel=0.35.1=py_0
+  - xz=5.2.5=h642e427_1
+  - zlib=1.2.11=hee7b306_1013
+prefix: /Users/pierrejaumier/miniforge3/envs/test
